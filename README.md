@@ -1,4 +1,4 @@
 # apnacollege
 first repository
 <br>
-author - faisal
+author - faisal(apna college)
